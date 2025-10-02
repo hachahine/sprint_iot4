@@ -1,0 +1,3 @@
+ORACLE_USER = "oracle_user"
+ORACLE_PASS = "oracle_pwd"
+ORACLE_DSN = "oracle_dsn"
